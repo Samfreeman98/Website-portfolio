@@ -121,7 +121,8 @@ button:focus,
 
 }
 
-.button__download{
+.button__download,
+.button__submit {
     margin: 30px;
 }
 
