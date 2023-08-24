@@ -201,6 +201,11 @@ button:focus,
 
 }
 
+.main-navigation {
+    margin-right: 45px;
+    
+}
+
 .navigation-list {
     list-style-type: undefined
 
